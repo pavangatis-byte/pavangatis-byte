@@ -10,7 +10,7 @@ I am a full-stack developer and also an ethical hacker; <br>currently, I am work
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=DakshThevar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=DakshThevar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DakshThevar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+username=DakshThevar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
